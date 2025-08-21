@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 <h3 align="center">Results-driven Software Engineer with experience building scalable web and mobile apps using Laravel, Tailwind , and modern JS frameworks. Proven track record delivering robust solutions for startups and enterprises. Seeking to contribute to innovative, fast paced teams focused on growth and product excellence.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-ayman-b8b34131b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-ayman-b8b34131b" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mrcoder-e1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mrcoder-e1q" height="30" width="40" /></a>
-</p>
 
 
 ## 🌐 Socials:
